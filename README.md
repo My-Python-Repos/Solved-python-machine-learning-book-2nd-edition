@@ -1,8 +1,5 @@
 ## Python Machine Learning (2nd Ed.) Code Repository
 
-[![Build Status](https://travis-ci.com/rasbt/python-machine-learning-book-2nd-edition.svg?token=zvSsJVLJFKzB2yqaeKN1&branch=master)](https://travis-ci.com/rasbt/python-machine-learning-book-2nd-edition)
-![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
-![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 
 
 
@@ -99,13 +96,3 @@ Raschka, Sebastian, and Vahid Mirjalili. *Python Machine Learning, 2nd Ed*. Pack
 - [Amazon.de link](https://www.amazon.de/Machine-Learning-Python-Scikit-Learn-TensorFlow/dp/3958457339/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1513601461&sr=8-5)
 - [Publisher link](https://mitp.de/IT-WEB/Programmierung/Machine-Learning-mit-Python-oxid.html)
 
-![](images/cover-german.jpg)
-
-
-### Japanese
-
-- ISBN-10: 4295003379
-- ISBN-13: 978-4295003373
-- [Amazon.co.jp link](https://www.amazon.co.jp/Python-機械学習プログラミング-達人データサイエンティストによる理論と実践-impress-gear/dp/4295003379/ref=tmm_pap_swatch_0)
-
-![](images/cover-japanese.jpg)
